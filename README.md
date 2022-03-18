@@ -2,7 +2,7 @@
 
 I'm Kaushik Baidya. I do web design and development. I really enjoy learning languages and frameworks like React and React Naitve. I also enjoy ui, ux and design.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaushikBaidya)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaushikBaiyda&hide=stars,prs)
 
 Here are some ideas to get you started:
 

@@ -1,7 +1,6 @@
 
 ![](https://github.com/KaushikBaidya/KaushikBaidya/blob/main/banner.PNG?raw=true)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you c I do web design and development. I really enjoy learning languages and frameworks like React and React Naitve. I also enjoy ui, ux and design.an copy/paste and use in your profile.
 
 Skills: 
 - ⚛ ReactJs

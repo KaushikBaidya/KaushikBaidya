@@ -2,12 +2,11 @@
 ![](https://github.com/KaushikBaidya/KaushikBaidya/blob/main/banner.PNG?raw=true)
 
 
-Skills: 
+# Skills: 
 - ⚛ ReactJs
 - 💻 HTMl, CSS, JS
 - 🔥 firebase
 
-- 🔭 I’m currently working on this page. 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaushikBaidya&hide=stars,prs)](https://github.com/anuraghazra/github-readme-stats)
 - 🔭 I’m currently working on my own projects 

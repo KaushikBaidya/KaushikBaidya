@@ -30,14 +30,14 @@ _Jul 2022 - Sep 2022_
 
 ## Skills
 
-- JavaScript, TypeScript
-- ReactJS, Next.js
-- Redux
-- HTML, CSS
-- Tailwind CSS, MaterialUI
-- Figma
-- Node.js, Express.js
-- Git, GitHub
+- 💻 JavaScript, TypeScript
+- ⚛️ ReactJS, Next.js
+- 🔄 Redux
+- 🌐 HTML, CSS
+- 🎨 Tailwind CSS, MaterialUI
+- 🖌️ Figma
+- 🖥️ Node.js, Express.js
+- 📦 Git, GitHub
 
 ## Education
 

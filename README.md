@@ -1,6 +1,6 @@
 # Hi there, I'm Kaushik Baidya! 👋
 
-![Banner](https://github.com/KaushikBaidya/KaushikBaidya/blob/main/banner.PNG?raw=true)
+![Banner]([https://github.com/KaushikBaidya/KaushikBaidya/blob/main/banner.PNG?raw=true](https://github.com/KaushikBaidya/KaushikBaidya/blob/main/github-header-image.png))
 
 ## About Me
 

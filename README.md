@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Kaushik Baidya!
 
-![Banner](https://github.com/KaushikBaidya/KaushikBaidya/blob/main/banner.PNG?raw=true)
+![Banner](https://github.com/KaushikBaidya/KaushikBaidya/blob/main/gradient-dark-blue-futuristic-digital-grid-background.jpg?raw=true)
 
 🎯 *Front-End Developer | UI Enthusiast | Lifelong Learner*
 

@@ -10,7 +10,7 @@
 
 I'm a Front-End Developer, passionate about building seamless and engaging user experiences. I specialize in **React**, **Tailwind CSS**, and modern **JavaScript** frameworks.
 
-- 🎓 **BSc in Computer Science** from RP Shah University  
+- 🎓 **BSc in Computer Science** from RP Shaha University  
 - 🔨 Building clean, scalable, and responsive UIs  
 - 🚀 Always learning something new (currently exploring **Next.js & animations**)
 

@@ -63,7 +63,7 @@ _2016 – 2021_
 ## 🌐 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/kaushik-baidya-696247157/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge)](https://myws-kaushikbaidya.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge)](https://portfolio-kaushik-baidya-jet.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-kaushikbaidya4916@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:kaushikbaidya4916@gmail.com)
 
 ---
